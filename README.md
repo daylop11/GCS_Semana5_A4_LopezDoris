@@ -11,3 +11,7 @@
 
 - Commits: chore/docs/feat/fix + referencia ISSUE-xx
 - Versiones: SemVer (vMAJOR.MINOR.PATCH)
+
+## Trazabilidad
+
+Los cambios del proyecto deben estar vinculados a Issues, commits y Pull Requests.

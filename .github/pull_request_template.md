@@ -1,21 +1,26 @@
-## ISSUE
-
-Closes #1
-
 ## Descripción
 
-Describe el cambio realizado.
+Describe brevemente el cambio realizado.
+
+## Issue relacionada
+
+Closes #
+
+## Cambios realizados
+
+- 
+- 
+- 
 
 ## Evidencia
 
-- [ ] Commit trazable
-- [ ] Pruebas realizadas
-- [ ] CHANGELOG actualizado
-- [ ] Registro de estados actualizado
-- [ ] Versión/tag correspondiente
+Describe las capturas, pruebas o documentos utilizados.
 
 ## Checklist
 
-- [ ] No se incluyen secretos
-- [ ] Se respetó SemVer
-- [ ] El repositorio queda limpio
+- [ ] El cambio está relacionado con un Issue.
+- [ ] Los commits siguen la convención definida.
+- [ ] No se incluyen datos sensibles.
+- [ ] Se verificaron los cambios.
+- [ ] Se adjuntó evidencia.
+- [ ] Otro integrante realizó la revisión.

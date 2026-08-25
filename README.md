@@ -15,6 +15,15 @@
 ## Trazabilidad
 
 Los cambios del proyecto deben estar vinculados a Issues, commits y Pull Requests.
+
+## Flujo de trazabilidad
+
+Cada cambio debe seguir el flujo:
+
+Issue → Branch → Commit → Pull Request → Review → Merge → Release
+
+Los commits deben utilizar la convención definida en el repositorio y hacer referencia al Issue correspondiente.
+
 ## Auditoría de configuración
 
 El repositorio mantiene sus elementos de configuración versionados y organizados en directorios definidos. Los cambios deben gestionarse mediante Issues, ramas, Pull Requests y commits trazables.
